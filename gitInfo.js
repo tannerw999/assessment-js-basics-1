@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+const gitDefinition = "Git is a way of tracking a file." 
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+const gitHubDefinition = "GitHub is a place to store progress and/or completed files that others can view and collaborate on more easily."
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@
 */
 
 //CODE HERE
-
+const gitinitDefinition = "Git Init makes a new repository in the root."
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@
 */
 
 //CODE HERE
-
+const gitCloneDefinition = "Makes a clone or copy of a chosen repository."
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@
 */
 
 //CODE HERE
-
+const gitStatusDefinition = "Checks the current status of file."
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +53,9 @@
 */
 
 //CODE HERE
+const gitAddDefinition = "Prepares files to be added to GitHub."
 
+const gitAddCode = "git add ."
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,7 +66,9 @@
 */
 
 //CODE HERE
+const gitCommitDefinition = "Takes snapshot of files."
 
+const gitCommitCode = "git commit -m 'initial commit'"
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +77,4 @@
 */
 
 //CODE HERE
+const gitPushDefinition = "Git push sends the current files to GitHub where they can be accessed by others."
